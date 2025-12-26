@@ -1,0 +1,7 @@
+numpy
+pyqtgraph
+opencv
+pymodbus
+mediapipe==0.10.14
+PyQt6
+ikpy
